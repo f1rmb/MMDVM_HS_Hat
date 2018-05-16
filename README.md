@@ -5,7 +5,7 @@ This project provides a Raspberry Pi Hat for the [MMDVM_HS Hotspot](https://gith
 
 First revisions of the board have been built successfully!
 
-![PCB](https://github.com/mathisschmieder/MMDVM_HS_Hat/blob/master/mmdvm_hs-hat.png)
+![PCB](https://github.com/f1rmb/MMDVM_HS_Hat/blob/1.7-cleanup/mmdvm_hs-hat.png)
 
 The PCB is designed in KiCad and the necessary libraries are included. The supplied Gerber files can be used to order PCBs, for example at Elecrow or DirtyPCBs. The board's dimensions are 65x30mm.
 
