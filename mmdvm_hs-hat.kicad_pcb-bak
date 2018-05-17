@@ -2015,11 +2015,6 @@
       (net 1 GND))
     (pad 2 smd rect (at 0.3875 0 180) (size 0.575 0.65) (layers F.Cu F.Paste F.Mask)
       (net 52 "Net-(D2-Pad2)"))
-    (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_0402_1005Metric.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
     (model ${KIPRJMOD}/packages3d/LED_SMD.3dshapes/APG1005.step
       (offset (xyz 0.27 0.07000000000000001 0))
       (scale (xyz 1 1 1))
@@ -2817,7 +2812,7 @@
       (net 1 GND))
     (pad 2 thru_hole circle (at -2.54 2.54) (size 2.2 2.2) (drill 1.7) (layers *.Cu *.Mask)
       (net 1 GND))
-    (model ${KIPRJMOD}/libraries/sma_straight_32k101-400l5.wrl
+    (model ${KIPRJMOD}/packages3d/Connector_Coaxial.3dshapes/sma_straight_32k101-400l5.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2858,7 +2853,7 @@
       (net 1 GND))
     (pad 1 smd rect (at -1.7 0) (size 0.9 1.7) (layers F.Cu F.Mask)
       (net 6 NRST))
-    (model ${KIPRJMOD}/libraries/smd_push.wrl
+    (model ${KIPRJMOD}/packages3d/Button_Switch_SMD.3dshapes/smd_push.wrl
       (at (xyz 0 0 0))
       (scale (xyz 0.5 0.5 0.3))
       (rotate (xyz 0 0 0))
@@ -5545,7 +5540,7 @@
   (segment (start 179.04375 121.49375) (end 179.04375 120.89375) (width 0.25) (layer F.Cu) (net 68))
   (segment (start 178.65 120.5) (end 178.65 120.2) (width 0.25) (layer F.Cu) (net 68))
 
-  (zone (net 1) (net_name GND) (layer F.Cu) (tstamp 5AFC5A1C) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer F.Cu) (tstamp 5B092E4A) (hatch edge 0.508)
     (connect_pads (clearance 0.275))
     (min_thickness 0.254)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -6294,7 +6289,7 @@
       )
     )
   )
-  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5AFC5A19) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5B092E47) (hatch edge 0.508)
     (connect_pads (clearance 0.254))
     (min_thickness 0.254)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))

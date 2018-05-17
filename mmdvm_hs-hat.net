@@ -1,8 +1,8 @@
 (export (version D)
   (design
     (source /home/caudanie/Documents/KiCadProjects/MMDVM_HS_Hat/mmdvm_hs-hat.sch)
-    (date "Wed 16 May 2018 02:58:55 PM CEST")
-    (tool "Eeschema 5.0.0-rc2-dev-unknown-538ab0e~65~ubuntu16.04.1")
+    (date "Thu 17 May 2018 03:22:37 PM CEST")
+    (tool "Eeschema 5.0.0-rc2-dev-unknown-904eb82~65~ubuntu16.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
         (title MMDVM_HS_Hat)
