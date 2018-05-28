@@ -1,44 +1,134 @@
-Refs,Value,Footprint,QTY,MFR,MPN,SPR,SPN
-SW1,DNI,Buttons_Switches_SMD:SW_SPST_B3U-1000P,1,Omron Electronics,B3U-1000P,Mouser,653-B3U-1000P
-C24;C25;C26;C16;C20;C10;C8;C15;C27;C28;C29,100n,Capacitors_SMD:C_0402,11,Vishay / Vitramon,VJ0402V104ZXJCW1BC,Mouser,77-VJ0402V104ZXJCBC
-C22;C7;C9;C2;C17;C19,10n,Capacitors_SMD:C_0402,6,Vishay / Vitramon,VJ0402Y103KXJCW1BC,Mouser,77-VJ0402Y103KXJCBC
-C4,10p,Capacitors_SMD:C_0402,1,Murata Electronics,GRM1555C1E100GA01D,Mouser,81-GRM1555C1E100GA1D
-C31,10u,Capacitors_SMD:C_0402,1,Murata Electronics,GRJ155R60J106ME11D,Mouser,81-GRJ155R60J106ME1D
-C13,15n,Capacitors_SMD:C_0402,1,Murata Electronics,GRM155R71C153KA01D,Mouser,81-GRM155R71C153KA1D
-C14,1n,Capacitors_SMD:C_0402,1,Murata Electronics,GRM155R60J102KA01D,Mouser,81-GRM155R60J102KA1D
-C21;C23,20p,Capacitors_SMD:C_0402,2,Murata Electronics,GJM1555C1H200FB01D,Mouser,81-GJM1555C1H200FB1D
-C3,220p,Capacitors_SMD:C_0402,1,Murata Electronics,GRM1555C1H221JA01D,Mouser,81-GRM1555C1H221JA01
-C11,22n,Capacitors_SMD:C_0402,1,Murata Electronics,GCM155R71E223KA55D,Mouser,81-GCM155R71E223KA5D
-C18,22p,Capacitors_SMD:C_0402,1,AVX,04025A220GAT2A,Mouser,581-04025A220G
-C12,470p,Capacitors_SMD:C_0402,1,Murata Electronics,GRM155R71H471KA01D,Mouser,81-GRM36X471K50
-C5,4p7,Capacitors_SMD:C_0402,1,Murata Electronics,GRM1555C1H4R7CA01D,Mouser,81-GRM1555C1H4R7CA1D
-C6;C1,6p8,Capacitors_SMD:C_0402,2,Murata Electronics,GJM1555C1H6R8BB01D,Mouser,81-GJM1555C1H6R8BB1D
-C30,10u/10V,Capacitors_Tantalum_SMD:CP_Tantalum_Case-A_EIA-3216-18_Reflow,1,AVX,F931A106KAA,Mouser,647-F931A106KAA
-P3,SMA,Connectors:SMA_THT_Jack_Straight,1,TE Connectivity,5-1814832-1,Mouser,571-5-1814832-1
-X1,TCXO,Crystals:Crystal_SMD_3225-4pin_3.2x2.5mm,1,ECS,ECS-TXO-3225-147.4-TR,Mouser,520-TXO-3225-14.74T
-Y1,8MHz,Crystals:Crystal_SMD_Abracon_ABM3-2pin_5.0x3.2mm,1,ABRACON,ABM3-8.000MHz-D2Y-T,Mouser,815-ABM3-8-D2Y-T
-U1,ADF7021,Housings_DFN_QFN:QFN-48-1EP_7x7mm_Pitch0.5mm,1,Analog Devices,ADF7021BCPZ,Mouser,584-ADF7021BCPZ
-U2,STM32F103C8T6,Housings_QFP:LQFP-48_7x7mm_Pitch0.5mm,1,STMicroelectronics,STM32F103C8T6,Mouser,511-STM32F103C8T6
-L5,10u,Inductors_SMD:L_0402,1,Wurth Electronics,74279277,Mouser,710-74279277
-L3,13n,Inductors_SMD:L_0402,1,Murata Electronics,LQW15AN13NG80D,Mouser,81-LQW15AN13NG80D
-L6,18n,Inductors_SMD:L_0402,1,TE Connectivity / Sigma Inductors,36501E18NJTDG,Mouser,279-36501E18NJTDG
-L2,20n,Inductors_SMD:L_0402,1,TE Connectivity / Sigma Inductors,36501E20NJTDG,Mouser,279-36501E20NJTDG
-L1,22n,Inductors_SMD:L_0402,1,Murata Electronics,LQW15CA22NJ00D,Mouser,81-LQW15CA22NJ00D
-L4,27n,Inductors_SMD:L_0402,1,Murata Electronics,LQW15AN27NG80D,Mouser,81-LQW15AN27NG80D
-D7,amber,LEDs:LED_0402,1,Kingbright,APG1005SEC-T,Mouser,604-APG1005SECT
-D9,blue,LEDs:LED_0402,1,Kingbright,APHHS1005QBC/D,Mouser,604-APHHS1005QBCD
-D2;D5,green,LEDs:LED_0402,2,Kingbright,APHHS1005CGCK,Mouser,604-APHHS1005CGCK
-D4;D8;D1,red,LEDs:LED_0402,3,Kingbright,APHHS1005SURCK,Mouser,604-APHHS1005SURCK
-D3;D6,yellow,LEDs:LED_0402,2,Kingbright,APG1005SYC-T,Mouser,604-APG1005SYCT
-AE1,CERAMIC_ANTENNA,MMDVM:ANT1204,1,Yageo,ANT1204F002R0433A,Mouser,603-ANT1204F002R0433
-P2,DISPLAY,Pin_Headers:Pin_Header_Straight_1x04,1,TE Connectivity / AMP,826629-4,Mouser,571-826629-4
-P1,I2C,Pin_Headers:Pin_Header_Straight_1x04,1,TE Connectivity / AMP,826629-4,Mouser,571-826629-4
-P4,STLINK,Pin_Headers:Pin_Header_Straight_1x04,1,TE Connectivity / AMP,826629-4,Mouser,571-826629-4
-R1;R7,10k,Resistors_SMD:R_0402,2,Vishay,CRCW040210K0FKED,Mouser,71-CRCW0402-10K-E3
-R8;R9;R10;R11;R12;R13;R14;R15;R16;R17;R18;R19,1k,Resistors_SMD:R_0402,12,Panasonic,ERJ-PA2D1001X,Mouser,667-ERJ-PA2D1001X
-R2,1k1,Resistors_SMD:R_0402,1,Susumu,RR0510P-112-D,Mouser,754-RR0510P-112D
-R6,270,Resistors_SMD:R_0402,1,Panasonic,ERA-2AEB271X,Mouser,667-ERA-2AEB271X
-R3,3k8,Resistors_SMD:R_0402,1,Susumu,RR0510P-3831-D,Mouser,754-RR0510P-3831D
-R4,3r9,Resistors_SMD:R_0402,1,Vishay,CRCW04023R90JNED,Mouser,71-CRCW0402J-3.9-E3
-R5,560,Resistors_SMD:R_0402,1,Panasonic,ERA-2AEB561X,Mouser,667-ERA-2AEB561X
-PI1,RPI-ZERO,pizero:RPI-Zero-RASPBERRYPI_BASTELSTUBE_V13_RASPI_BOARD_B+_FULL,1,Harwin,M20-7832046,Mouser,855-M20-7832046
+Source:,/home/caudanie/Documents/KiCadProjects/MMDVM_HS_Hat/mmdvm_hs-hat.sch,,,,,,,,,,
+Date:,Mon 28 May 2018 01:47:52 PM CEST,,,,,,,,,,
+Tool:,Eeschema 5.0.0-rc2-unknown-da66005~65~ubuntu16.04.1,,,,,,,,,,
+Generator:,/usr/lib/x86_64-linux-gnu/kicad/plugins/bom_csv_grouped_by_value.py,,,,,,,,,,
+Component Count:,76,,,,,,,,,,
+,,,,,,,,,,,
+Individual Components:,,,,,,,,,,,
+,,,,,,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,MFR,MPN,SPN,SPR,SPURL
+,,AE1,CERAMIC_ANTENNA,mmdvm_hs-hat-rescue:Antenna_Dipole-RESCUE-mmdvm_hs-hat,MMDVM:ANT1204,http://www.mouser.com/ds/2/447/An_SMD_UHF_433_1204_0-595178.pdf,Yageo,ANT1204F002R0433A,603-ANT1204F002R0433,Mouser,
+,,C1,6p8,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/281/c02e-2905.pdf,Murata Electronics,GJM1555C1H6R8BB01D,81-GJM1555C1H6R8BB1D,Mouser,
+,,C2,10n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/427/vjw1bcbascomseries-223529.pdf,Vishay / Vitramon,VJ0402Y103KXJCW1BC,77-VJ0402Y103KXJCBC,Mouser,
+,,C3,220p,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/281/c02e-2905.pdf,Murata Electronics,GRM1555C1H221JA01D,81-GRM1555C1H221JA01,Mouser,
+,,C4,10p,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/281/c02e-2905.pdf,Murata Electronics,GRM1555C1E100GA01D,81-GRM1555C1E100GA1D,Mouser,
+,,C5,4p7,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/281/c02e-2905.pdf,Murata Electronics,GRM1555C1H4R7CA01D,81-GRM1555C1H4R7CA1D,Mouser,
+,,C6,6p8,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/281/c02e-2905.pdf,Murata Electronics,GJM1555C1H6R8BB01D,81-GJM1555C1H6R8BB1D,Mouser,
+,,C7,10n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/427/vjw1bcbascomseries-223529.pdf,Vishay / Vitramon,VJ0402Y103KXJCW1BC,77-VJ0402Y103KXJCBC,Mouser,
+,,C8,100n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/427/vjw1bcbascomseries-223529.pdf,Vishay / Vitramon,VJ0402V104ZXJCW1BC,77-VJ0402V104ZXJCBC,Mouser,
+,,C9,10n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/427/vjw1bcbascomseries-223529.pdf,Vishay / Vitramon,VJ0402Y103KXJCW1BC,77-VJ0402Y103KXJCBC,Mouser,
+,,C10,100n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/427/vjw1bcbascomseries-223529.pdf,Vishay / Vitramon,VJ0402V104ZXJCW1BC,77-VJ0402V104ZXJCBC,Mouser,
+,,C11,22n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/281/c03e-806517.pdf,Murata Electronics,GCM155R71E223KA55D,81-GCM155R71E223KA5D,Mouser,
+,,C12,470p,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/281/c02e-2905.pdf,Murata Electronics,GRM155R71H471KA01D,81-GRM36X471K50,Mouser,
+,,C13,15n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/281/c02e-2905.pdf,Murata Electronics,GRM155R71C153KA01D,81-GRM155R71C153KA1D,Mouser,
+,,C14,1n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/281/c02e-2905.pdf,Murata Electronics,GRM155R60J102KA01D,81-GRM155R60J102KA1D,Mouser,
+,,C15,100n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/427/vjw1bcbascomseries-223529.pdf,Vishay / Vitramon,VJ0402V104ZXJCW1BC,77-VJ0402V104ZXJCBC,Mouser,
+,,C16,100n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/427/vjw1bcbascomseries-223529.pdf,Vishay / Vitramon,VJ0402V104ZXJCW1BC,77-VJ0402V104ZXJCBC,Mouser,
+,,C17,10n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/427/vjw1bcbascomseries-223529.pdf,Vishay / Vitramon,VJ0402Y103KXJCW1BC,77-VJ0402Y103KXJCBC,Mouser,
+,,C18,22p,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/40/C0GNP0-Dielectric-951274.pdf,AVX,04025A220GAT2A,581-04025A220G,Mouser,
+,,C19,10n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/427/vjw1bcbascomseries-223529.pdf,Vishay / Vitramon,VJ0402Y103KXJCW1BC,77-VJ0402Y103KXJCBC,Mouser,
+,,C20,100n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/427/vjw1bcbascomseries-223529.pdf,Vishay / Vitramon,VJ0402V104ZXJCW1BC,77-VJ0402V104ZXJCBC,Mouser,
+,,C21,20p,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/281/c02e-2905.pdf,Murata Electronics,GJM1555C1H200FB01D,81-GJM1555C1H200FB1D,Mouser,
+,,C22,10n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/427/vjw1bcbascomseries-223529.pdf,Vishay / Vitramon,VJ0402Y103KXJCW1BC,77-VJ0402Y103KXJCBC,Mouser,
+,,C23,20p,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/281/c02e-2905.pdf,Murata Electronics,GJM1555C1H200FB01D,81-GJM1555C1H200FB1D,Mouser,
+,,C24,100n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/427/vjw1bcbascomseries-223529.pdf,Vishay / Vitramon,VJ0402V104ZXJCW1BC,77-VJ0402V104ZXJCBC,Mouser,
+,,C25,100n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/427/vjw1bcbascomseries-223529.pdf,Vishay / Vitramon,VJ0402V104ZXJCW1BC,77-VJ0402V104ZXJCBC,Mouser,
+,,C26,100n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/427/vjw1bcbascomseries-223529.pdf,Vishay / Vitramon,VJ0402V104ZXJCW1BC,77-VJ0402V104ZXJCBC,Mouser,
+,,C27,100n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/427/vjw1bcbascomseries-223529.pdf,Vishay / Vitramon,VJ0402V104ZXJCW1BC,77-VJ0402V104ZXJCBC,Mouser,
+,,C28,100n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/427/vjw1bcbascomseries-223529.pdf,Vishay / Vitramon,VJ0402V104ZXJCW1BC,77-VJ0402V104ZXJCBC,Mouser,
+,,C29,100n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/427/vjw1bcbascomseries-223529.pdf,Vishay / Vitramon,VJ0402V104ZXJCW1BC,77-VJ0402V104ZXJCBC,Mouser,
+,,C30,10u/10V,mmdvm_hs-hat-rescue:CP-RESCUE-mmdvm_hs-hat,Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A,http://www.mouser.com/ds/2/40/f93-776559.pdf,AVX,F931A106KAA,647-F931A106KAA,Mouser,
+,,C31,10u,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/281/c02e-2905.pdf,Murata Electronics,GRJ155R60J106ME11D,81-GRJ155R60J106ME1D,Mouser,
+,,D1,red,mmdvm_hs-hat-rescue:LED-RESCUE-mmdvm_hs-hat,LED_SMD:LED_0402_1005Metric,http://www.mouser.com/ds/2/216/APHHS1005SURCK-32322.pdf,Kingbright,APHHS1005SURCK,604-APHHS1005SURCK,Mouser,
+,,D2,green,mmdvm_hs-hat-rescue:LED-RESCUE-mmdvm_hs-hat,LED_SMD:LED_0402_1005Metric,http://www.mouser.com/ds/2/216/APHHS1005CGCK-38896.pdf,Kingbright,APHHS1005CGCK,604-APHHS1005CGCK,Mouser,
+,,D3,yellow,mmdvm_hs-hat-rescue:LED-RESCUE-mmdvm_hs-hat,LED_SMD:LED_0402_1005Metric,http://www.mouser.com/ds/2/216/APG1005SYC-T-315808.pdf,Kingbright,APG1005SYC-T,604-APG1005SYCT,Mouser,
+,,D4,red,mmdvm_hs-hat-rescue:LED-RESCUE-mmdvm_hs-hat,LED_SMD:LED_0402_1005Metric,http://www.mouser.com/ds/2/216/APHHS1005SURCK-32322.pdf,Kingbright,APHHS1005SURCK,604-APHHS1005SURCK,Mouser,
+,,D5,green,mmdvm_hs-hat-rescue:LED-RESCUE-mmdvm_hs-hat,LED_SMD:LED_0402_1005Metric,http://www.mouser.com/ds/2/216/APG1005SYC-T-315808.pdf,Kingbright,APG1005SYC-T,604-APG1005SYCT,Mouser,
+,,D6,yellow,mmdvm_hs-hat-rescue:LED-RESCUE-mmdvm_hs-hat,LED_SMD:LED_0402_1005Metric,http://www.mouser.com/ds/2/216/APHHS1005CGCK-38896.pdf,Kingbright,APHHS1005CGCK,604-APHHS1005CGCK,Mouser,
+,,D7,amber,mmdvm_hs-hat-rescue:LED-RESCUE-mmdvm_hs-hat,LED_SMD:LED_0402_1005Metric,https://www.mouser.de/kingbright-minikin-air-leds,Kingbright,APG1005SEC-T,604-APG1005SECT,Mouser,
+,,D8,red,mmdvm_hs-hat-rescue:LED-RESCUE-mmdvm_hs-hat,LED_SMD:LED_0402_1005Metric,http://www.mouser.com/ds/2/216/APHHS1005SURCK-32322.pdf,Kingbright,APHHS1005SURCK,604-APHHS1005SURCK,Mouser,
+,,D9,blue,mmdvm_hs-hat-rescue:LED-RESCUE-mmdvm_hs-hat,LED_SMD:LED_0402_1005Metric,https://www.mouser.com/ds/2/216/APHHS1005QBC-D-54846.pdf,Kingbright,APHHS1005QBC/D,604-APHHS1005QBCD,Mouser,
+,,L1,22n,mmdvm_hs-hat-rescue:L-RESCUE-mmdvm_hs-hat,Inductor_SMD:L_0402_1005Metric,http://www.mouser.com/ds/2/281/JELF243A-0140-937123.pdf,Murata Electronics,LQW15CA22NJ00D,81-LQW15CA22NJ00D,Mouser,
+,,L2,20n,mmdvm_hs-hat-rescue:L-RESCUE-mmdvm_hs-hat,Inductor_SMD:L_0402_1005Metric,http://www.mouser.com/ds/2/418/NG_CD_1624112_BA1-656883.pdf,TE Connectivity / Sigma Inductors,36501E20NJTDG,279-36501E20NJTDG,Mouser,
+,,L3,13n,mmdvm_hs-hat-rescue:L-RESCUE-mmdvm_hs-hat,Inductor_SMD:L_0402_1005Metric,http://www.mouser.com/ds/2/281/murata_inductors-1186262.pdf,Murata Electronics,LQW15AN13NG80D,81-LQW15AN13NG80D,Mouser,
+,,L4,27n,mmdvm_hs-hat-rescue:L-RESCUE-mmdvm_hs-hat,Inductor_SMD:L_0402_1005Metric,http://www.mouser.com/ds/2/281/murata_inductors-1186262.pdf,Murata Electronics,LQW15AN27NG80D,81-LQW15AN27NG80D,Mouser,
+,,L5,10u,mmdvm_hs-hat-rescue:L-RESCUE-mmdvm_hs-hat,Inductor_SMD:L_0402_1005Metric,http://www.mouser.com/ds/2/445/74279277-372706.pdf,Wurth Electronics,74279277,710-74279277,Mouser,
+,,L6,18n,mmdvm_hs-hat-rescue:L-RESCUE-mmdvm_hs-hat,Inductor_SMD:L_0402_1005Metric,https://www.mouser.com/ds/2/418/NG_CS_1309350_PASSIVE_COMPONENT_0807-1236213.pdf,TE Connectivity / Sigma Inductors,36501E18NJTDG,279-36501E18NJTDG,Mouser,
+,,P1,I2C,mmdvm_hs-hat-rescue:CONN_01X04-RESCUE-mmdvm_hs-hat,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,http://www.mouser.com/ds/2/418/NG_CD_826629_AA_baseFilename-683270.pdf,TE Connectivity / AMP,826629-4,571-826629-4,Mouser,
+,,P2,DISPLAY,mmdvm_hs-hat-rescue:CONN_01X04-RESCUE-mmdvm_hs-hat,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,http://www.mouser.com/ds/2/418/NG_CD_826629_AA_baseFilename-683270.pdf,TE Connectivity / AMP,826629-4,571-826629-4,Mouser,
+,,P3,SMA,mmdvm_hs-hat-rescue:CONN_01X02-RESCUE-mmdvm_hs-hat,Connectors:SMA_THT_Jack_Straight,http://www.mouser.com/ds/2/18/C901-144-8RFX-710432.pdf,TE Connectivity,5-1814832-1,571-5-1814832-1,Mouser,
+,,P4,STLINK,mmdvm_hs-hat-rescue:CONN_01X04-RESCUE-mmdvm_hs-hat,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,http://www.mouser.com/ds/2/418/NG_CD_826629_AA_baseFilename-683270.pdf,TE Connectivity / AMP,826629-4,571-826629-4,Mouser,
+,,PI1,RPI-ZERO,RPI-Zero:RPI-ZERO,pizero:RPI-Zero-RASPBERRYPI_BASTELSTUBE_V13_RASPI_BOARD_B+_FULL,http://www.mouser.com/ds/2/181/M20-783-351164.pdf,Harwin,M20-7832046,855-M20-7832046,Mouser,
+,,R1,10k,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/427/dcrcwe3-109170.pdf,Vishay,CRCW040210K0FKED,71-CRCW0402-10K-E3,Mouser,
+,,R2,1k1,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/392/susumu_RR_Data_Sheet-358748.pdf,Susumu,RR0510P-112-D,754-RR0510P-112D,Mouser,
+,,R3,3k8,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/392/susumu_RR_Data_Sheet-358748.pdf,Susumu,RR0510P-3831-D,754-RR0510P-3831D,Mouser,
+,,R4,3r9,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/427/dcrcwe3-109170.pdf,Vishay,CRCW04023R90JNED,71-CRCW0402J-3.9-E3,Mouser,
+,,R5,560,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/315/AOA0000C237-1100991.pdf,Panasonic,ERA-2AEB561X,667-ERA-2AEB561X,Mouser,
+,,R6,270,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/315/AOA0000C237-1100991.pdf,Panasonic,ERA-2AEB271X,667-ERA-2AEB271X,Mouser,
+,,R7,10k,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/427/dcrcwe3-109170.pdf,Vishay,CRCW040210K0FKED,71-CRCW0402-10K-E3,Mouser,
+,,R8,1k,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/315/AOA0000C291-1101061.pdf,Panasonic,ERJ-PA2D1001X,667-ERJ-PA2D1001X,Mouser,
+,,R9,1k,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/315/AOA0000C291-1101061.pdf,Panasonic,ERJ-PA2D1001X,667-ERJ-PA2D1001X,Mouser,
+,,R10,1k,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/315/AOA0000C291-1101061.pdf,Panasonic,ERJ-PA2D1001X,667-ERJ-PA2D1001X,Mouser,
+,,R11,1k,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/315/AOA0000C291-1101061.pdf,Panasonic,ERJ-PA2D1001X,667-ERJ-PA2D1001X,Mouser,
+,,R12,1k,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/315/AOA0000C291-1101061.pdf,Panasonic,ERJ-PA2D1001X,667-ERJ-PA2D1001X,Mouser,
+,,R13,1k,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/315/AOA0000C291-1101061.pdf,Panasonic,ERJ-PA2D1001X,667-ERJ-PA2D1001X,Mouser,
+,,R14,1k,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/315/AOA0000C291-1101061.pdf,Panasonic,ERJ-PA2D1001X,667-ERJ-PA2D1001X,Mouser,
+,,R15,1k,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/315/AOA0000C291-1101061.pdf,Panasonic,ERJ-PA2D1001X,667-ERJ-PA2D1001X,Mouser,
+,,R16,1k,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/315/AOA0000C291-1101061.pdf,Panasonic,ERJ-PA2D1001X,667-ERJ-PA2D1001X,Mouser,
+,,R17,1k,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/315/AOA0000C291-1101061.pdf,Panasonic,ERJ-PA2D1001X,667-ERJ-PA2D1001X,Mouser,
+,,R18,1k,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/315/AOA0000C291-1101061.pdf,Panasonic,ERJ-PA2D1001X,667-ERJ-PA2D1001X,Mouser,
+,,R19,1k,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/315/AOA0000C291-1101061.pdf,Panasonic,ERJ-PA2D1001X,667-ERJ-PA2D1001X,Mouser,
+,,SW1,DNI,mmdvm_hs-hat-rescue:SW_DIP_x01-RESCUE-mmdvm_hs-hat,Buttons_Switches_SMD:SW_SPST_B3U-1000P,http://www.mouser.com/ds/2/307/en-b3u-3615.pdf,Omron Electronics,B3U-1000P,653-B3U-1000P,Mouser,
+,,U1,ADF7021,adf7021:ADF7021,Housings_DFN_QFN:QFN-48-1EP_7x7mm_Pitch0.5mm,http://www.mouser.com/ds/2/609/ADF7021-878461.pdf,Analog Devices,ADF7021BCPZ,584-ADF7021BCPZ,Mouser,
+,,U2,STM32F103C8T6,stm32f103c8t6:STM32F103C8T6,Housings_QFP:LQFP-48_7x7mm_Pitch0.5mm,http://www.mouser.com/ds/2/389/stm32f103c8-956229.pdf,STMicroelectronics,STM32F103C8T6,511-STM32F103C8T6,Mouser,
+,,X1,TCXO,mmdvm_hs-hat-rescue:TCXO_DFAS11-RESCUE-mmdvm_hs-hat,Crystals:Crystal_SMD_3225-4pin_3.2x2.5mm,http://www.mouser.com/ds/2/122/ECS-TXO-3225-608196.pdf,ECS,ECS-TXO-3225-147.4-TR,520-TXO-3225-14.74T,Mouser,
+,,Y1,8MHz,mmdvm_hs-hat-rescue:Crystal-RESCUE-mmdvm_hs-hat,Crystals:Crystal_SMD_Abracon_ABM3-2pin_5.0x3.2mm,http://www.mouser.com/ds/2/3/abm3-47699.pdf,ABRACON,ABM3-8.000MHz-D2Y-T,815-ABM3-8-D2Y-T,Mouser,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Collated Components:,,,,,,,,,,,
+,,,,,,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,MFR,MPN,SPN,SPR,SPURL
+1,1,AE1,CERAMIC_ANTENNA,mmdvm_hs-hat-rescue:Antenna_Dipole-RESCUE-mmdvm_hs-hat,MMDVM:ANT1204,http://www.mouser.com/ds/2/447/An_SMD_UHF_433_1204_0-595178.pdf,Yageo,ANT1204F002R0433A,603-ANT1204F002R0433,Mouser,
+2,2,"C1, C6",6p8,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/281/c02e-2905.pdf,Murata Electronics,GJM1555C1H6R8BB01D,81-GJM1555C1H6R8BB1D,Mouser,
+3,6,"C2, C7, C9, C17, C19, C22",10n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/427/vjw1bcbascomseries-223529.pdf,Vishay / Vitramon,VJ0402Y103KXJCW1BC,77-VJ0402Y103KXJCBC,Mouser,
+4,1,C3,220p,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/281/c02e-2905.pdf,Murata Electronics,GRM1555C1H221JA01D,81-GRM1555C1H221JA01,Mouser,
+5,1,C4,10p,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/281/c02e-2905.pdf,Murata Electronics,GRM1555C1E100GA01D,81-GRM1555C1E100GA1D,Mouser,
+6,1,C5,4p7,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/281/c02e-2905.pdf,Murata Electronics,GRM1555C1H4R7CA01D,81-GRM1555C1H4R7CA1D,Mouser,
+7,11,"C8, C10, C15, C16, C20, C24, C25, C26, C27, C28, C29",100n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/427/vjw1bcbascomseries-223529.pdf,Vishay / Vitramon,VJ0402V104ZXJCW1BC,77-VJ0402V104ZXJCBC,Mouser,
+8,1,C11,22n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/281/c03e-806517.pdf,Murata Electronics,GCM155R71E223KA55D,81-GCM155R71E223KA5D,Mouser,
+9,1,C12,470p,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/281/c02e-2905.pdf,Murata Electronics,GRM155R71H471KA01D,81-GRM36X471K50,Mouser,
+10,1,C13,15n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/281/c02e-2905.pdf,Murata Electronics,GRM155R71C153KA01D,81-GRM155R71C153KA1D,Mouser,
+11,1,C14,1n,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/281/c02e-2905.pdf,Murata Electronics,GRM155R60J102KA01D,81-GRM155R60J102KA1D,Mouser,
+12,1,C18,22p,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/40/C0GNP0-Dielectric-951274.pdf,AVX,04025A220GAT2A,581-04025A220G,Mouser,
+13,2,"C21, C23",20p,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/281/c02e-2905.pdf,Murata Electronics,GJM1555C1H200FB01D,81-GJM1555C1H200FB1D,Mouser,
+14,1,C30,10u/10V,mmdvm_hs-hat-rescue:CP-RESCUE-mmdvm_hs-hat,Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A,http://www.mouser.com/ds/2/40/f93-776559.pdf,AVX,F931A106KAA,647-F931A106KAA,Mouser,
+15,1,C31,10u,mmdvm_hs-hat-rescue:C-RESCUE-mmdvm_hs-hat,Capacitor_SMD:C_0402_1005Metric,http://www.mouser.com/ds/2/281/c02e-2905.pdf,Murata Electronics,GRJ155R60J106ME11D,81-GRJ155R60J106ME1D,Mouser,
+16,3,"D1, D4, D8",red,mmdvm_hs-hat-rescue:LED-RESCUE-mmdvm_hs-hat,LED_SMD:LED_0402_1005Metric,http://www.mouser.com/ds/2/216/APHHS1005SURCK-32322.pdf,Kingbright,APHHS1005SURCK,604-APHHS1005SURCK,Mouser,
+17,2,"D2, D5",green,mmdvm_hs-hat-rescue:LED-RESCUE-mmdvm_hs-hat,LED_SMD:LED_0402_1005Metric,http://www.mouser.com/ds/2/216/APHHS1005CGCK-38896.pdf,Kingbright,APHHS1005CGCK,604-APHHS1005CGCK,Mouser,
+18,2,"D3, D6",yellow,mmdvm_hs-hat-rescue:LED-RESCUE-mmdvm_hs-hat,LED_SMD:LED_0402_1005Metric,http://www.mouser.com/ds/2/216/APG1005SYC-T-315808.pdf,Kingbright,APG1005SYC-T,604-APG1005SYCT,Mouser,
+19,1,D7,amber,mmdvm_hs-hat-rescue:LED-RESCUE-mmdvm_hs-hat,LED_SMD:LED_0402_1005Metric,https://www.mouser.de/kingbright-minikin-air-leds,Kingbright,APG1005SEC-T,604-APG1005SECT,Mouser,
+20,1,D9,blue,mmdvm_hs-hat-rescue:LED-RESCUE-mmdvm_hs-hat,LED_SMD:LED_0402_1005Metric,https://www.mouser.com/ds/2/216/APHHS1005QBC-D-54846.pdf,Kingbright,APHHS1005QBC/D,604-APHHS1005QBCD,Mouser,
+21,1,L1,22n,mmdvm_hs-hat-rescue:L-RESCUE-mmdvm_hs-hat,Inductor_SMD:L_0402_1005Metric,http://www.mouser.com/ds/2/281/JELF243A-0140-937123.pdf,Murata Electronics,LQW15CA22NJ00D,81-LQW15CA22NJ00D,Mouser,
+22,1,L2,20n,mmdvm_hs-hat-rescue:L-RESCUE-mmdvm_hs-hat,Inductor_SMD:L_0402_1005Metric,http://www.mouser.com/ds/2/418/NG_CD_1624112_BA1-656883.pdf,TE Connectivity / Sigma Inductors,36501E20NJTDG,279-36501E20NJTDG,Mouser,
+23,1,L3,13n,mmdvm_hs-hat-rescue:L-RESCUE-mmdvm_hs-hat,Inductor_SMD:L_0402_1005Metric,http://www.mouser.com/ds/2/281/murata_inductors-1186262.pdf,Murata Electronics,LQW15AN13NG80D,81-LQW15AN13NG80D,Mouser,
+24,1,L4,27n,mmdvm_hs-hat-rescue:L-RESCUE-mmdvm_hs-hat,Inductor_SMD:L_0402_1005Metric,http://www.mouser.com/ds/2/281/murata_inductors-1186262.pdf,Murata Electronics,LQW15AN27NG80D,81-LQW15AN27NG80D,Mouser,
+25,1,L5,10u,mmdvm_hs-hat-rescue:L-RESCUE-mmdvm_hs-hat,Inductor_SMD:L_0402_1005Metric,http://www.mouser.com/ds/2/445/74279277-372706.pdf,Wurth Electronics,74279277,710-74279277,Mouser,
+26,1,L6,18n,mmdvm_hs-hat-rescue:L-RESCUE-mmdvm_hs-hat,Inductor_SMD:L_0402_1005Metric,https://www.mouser.com/ds/2/418/NG_CS_1309350_PASSIVE_COMPONENT_0807-1236213.pdf,TE Connectivity / Sigma Inductors,36501E18NJTDG,279-36501E18NJTDG,Mouser,
+27,1,P1,I2C,mmdvm_hs-hat-rescue:CONN_01X04-RESCUE-mmdvm_hs-hat,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,http://www.mouser.com/ds/2/418/NG_CD_826629_AA_baseFilename-683270.pdf,TE Connectivity / AMP,826629-4,571-826629-4,Mouser,
+28,1,P2,DISPLAY,mmdvm_hs-hat-rescue:CONN_01X04-RESCUE-mmdvm_hs-hat,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,http://www.mouser.com/ds/2/418/NG_CD_826629_AA_baseFilename-683270.pdf,TE Connectivity / AMP,826629-4,571-826629-4,Mouser,
+29,1,P3,SMA,mmdvm_hs-hat-rescue:CONN_01X02-RESCUE-mmdvm_hs-hat,Connectors:SMA_THT_Jack_Straight,http://www.mouser.com/ds/2/18/C901-144-8RFX-710432.pdf,TE Connectivity,5-1814832-1,571-5-1814832-1,Mouser,
+30,1,P4,STLINK,mmdvm_hs-hat-rescue:CONN_01X04-RESCUE-mmdvm_hs-hat,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,http://www.mouser.com/ds/2/418/NG_CD_826629_AA_baseFilename-683270.pdf,TE Connectivity / AMP,826629-4,571-826629-4,Mouser,
+31,1,PI1,RPI-ZERO,RPI-Zero:RPI-ZERO,pizero:RPI-Zero-RASPBERRYPI_BASTELSTUBE_V13_RASPI_BOARD_B+_FULL,http://www.mouser.com/ds/2/181/M20-783-351164.pdf,Harwin,M20-7832046,855-M20-7832046,Mouser,
+32,2,"R1, R7",10k,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/427/dcrcwe3-109170.pdf,Vishay,CRCW040210K0FKED,71-CRCW0402-10K-E3,Mouser,
+33,1,R2,1k1,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/392/susumu_RR_Data_Sheet-358748.pdf,Susumu,RR0510P-112-D,754-RR0510P-112D,Mouser,
+34,1,R3,3k8,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/392/susumu_RR_Data_Sheet-358748.pdf,Susumu,RR0510P-3831-D,754-RR0510P-3831D,Mouser,
+35,1,R4,3r9,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/427/dcrcwe3-109170.pdf,Vishay,CRCW04023R90JNED,71-CRCW0402J-3.9-E3,Mouser,
+36,1,R5,560,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/315/AOA0000C237-1100991.pdf,Panasonic,ERA-2AEB561X,667-ERA-2AEB561X,Mouser,
+37,1,R6,270,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/315/AOA0000C237-1100991.pdf,Panasonic,ERA-2AEB271X,667-ERA-2AEB271X,Mouser,
+38,12,"R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19",1k,mmdvm_hs-hat-rescue:R-RESCUE-mmdvm_hs-hat,Resistor_SMD:R_0402_1005Metric,http://www.mouser.com/ds/2/315/AOA0000C291-1101061.pdf,Panasonic,ERJ-PA2D1001X,667-ERJ-PA2D1001X,Mouser,
+39,1,SW1,DNI,mmdvm_hs-hat-rescue:SW_DIP_x01-RESCUE-mmdvm_hs-hat,Buttons_Switches_SMD:SW_SPST_B3U-1000P,http://www.mouser.com/ds/2/307/en-b3u-3615.pdf,Omron Electronics,B3U-1000P,653-B3U-1000P,Mouser,
+40,1,U1,ADF7021,adf7021:ADF7021,Housings_DFN_QFN:QFN-48-1EP_7x7mm_Pitch0.5mm,http://www.mouser.com/ds/2/609/ADF7021-878461.pdf,Analog Devices,ADF7021BCPZ,584-ADF7021BCPZ,Mouser,
+41,1,U2,STM32F103C8T6,stm32f103c8t6:STM32F103C8T6,Housings_QFP:LQFP-48_7x7mm_Pitch0.5mm,http://www.mouser.com/ds/2/389/stm32f103c8-956229.pdf,STMicroelectronics,STM32F103C8T6,511-STM32F103C8T6,Mouser,
+42,1,X1,TCXO,mmdvm_hs-hat-rescue:TCXO_DFAS11-RESCUE-mmdvm_hs-hat,Crystals:Crystal_SMD_3225-4pin_3.2x2.5mm,http://www.mouser.com/ds/2/122/ECS-TXO-3225-608196.pdf,ECS,ECS-TXO-3225-147.4-TR,520-TXO-3225-14.74T,Mouser,
+43,1,Y1,8MHz,mmdvm_hs-hat-rescue:Crystal-RESCUE-mmdvm_hs-hat,Crystals:Crystal_SMD_Abracon_ABM3-2pin_5.0x3.2mm,http://www.mouser.com/ds/2/3/abm3-47699.pdf,ABRACON,ABM3-8.000MHz-D2Y-T,815-ABM3-8-D2Y-T,Mouser,
