@@ -2893,4 +2893,37 @@ Wire Wire Line
 	4350 2150 4350 2100
 Wire Wire Line
 	4350 2450 4350 2500
+$Comp
+L power:+3.3V #PWR?
+U 1 1 5B0F1627
+P 3450 1650
+F 0 "#PWR?" H 3450 1500 50  0001 C CNN
+F 1 "+3.3V" H 3450 1790 50  0000 C CNN
+F 2 "" H 3450 1650 50  0000 C CNN
+F 3 "" H 3450 1650 50  0000 C CNN
+	1    3450 1650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2850 1700 3450 1700
+Wire Wire Line
+	3450 1700 3450 1650
+Text GLabel 3350 1900 2    60   Input ~ 0
+SCL
+Text GLabel 3350 2000 2    60   Input ~ 0
+SDA
+Wire Wire Line
+	2850 1900 3350 1900
+Wire Wire Line
+	2850 2000 3350 2000
+Wire Notes Line
+	3250 1450 3950 1450
+Wire Notes Line
+	3950 1450 3950 2250
+Wire Notes Line
+	3950 2250 3250 2250
+Wire Notes Line
+	3250 1450 3250 2250
+Text Notes 3700 2250 0    60   ~ 0
+OLED
 $EndSCHEMATC
