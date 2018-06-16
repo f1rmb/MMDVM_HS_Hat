@@ -14,11 +14,17 @@ This fork was designed with KiCad 5 RC version (aka development build), opening 
 
 You can order 3 beautiful, purple Revision 1.2 PCBs for $15 at [OSHPark](https://oshpark.com/shared_projects/WaiMw5XE)! 
 
-## 3D printed Case
+## 3D printed Cases
 
 ![Case](https://pbs.twimg.com/media/DNj-LUiXcAEf-Xt.jpg)
 
-Thanks to Toufik, F0DEI we added the sources for a shiny case that you can print with your 3D printer. It may require a little upscaling depending on your printer model. It can carry a Raspberry Pi Zero (W) with MMDVM_HS_Hat (SMA) on top.
+Thanks to Toufik, F0DEI we added the ~~sources~~ STL file for a shiny case that you can print with your 3D printer. It may require a little upscaling depending on your printer model. It can carry a Raspberry Pi Zero (W) with MMDVM_HS_Hat (SMA) on top.
+
+<br>
+There are also the enclosures, designed by myself, available here https://github.com/f1rmb/MMDVM_HS_Hat-Enclosure
+
+![CaseRMB](https://github.com/f1rmb/MMDVM_HS_Hat-Enclosure/blob/master/Assembly-All.png)
+
 
 ## Revisions
 ### Revision 0
