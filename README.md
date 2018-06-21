@@ -67,7 +67,8 @@ I will add the change list later, once the first PCB is assembled and tested :-D
 * The parts for Revision 1.3 board are in this [Mouser cart](http://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=250d76339b) and the light version is [here](http://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=2d533ac53d)
 * [Mouser project](http://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=5cab954f40) for MMDVM_HS_Hat revision 1.4
 * There is another [Mouser cart for rev 1.5](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=5a3e4ae018).
-* And this is the [rev1.6 cart](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=48302f4221) and its [light version](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=ac888de33a).
+* This is the [rev1.6 cart](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=48302f4221) and its [light version](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=ac888de33a).
+* And this is the [Mouser cart for rev1.7](https://www.mouser.fr/ProjectManager/ProjectDetail.aspx?AccessID=95F1FF1BD5).
 
 Please note that the onboard ceramic antenna is not supplied by Mouser and therefore missing in the carts for revisions up to 1.3.
 
